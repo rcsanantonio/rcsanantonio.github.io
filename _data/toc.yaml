@@ -1,0 +1,52 @@
+
+horizontalnav:
+- title: Home
+  path: /
+  node: home
+- title: Convention
+  path: /convention/general-convention.html
+  node: Convention
+
+
+home: {}
+
+
+## Convention
+Convention:
+- sectiontitle: General Convention
+  sectionpath: /convention/general-convention.html
+  section:
+  - sectiontitle: Territory Convention
+    sectionpath: /convention/territory-convention.html
+    section:
+    - sectiontitle: Delegates
+      sectionpath: /convention/delegates.html
+      section:
+      - title: Adriana Pérez Oliveros
+        path: /convention/candidate-adriana-perez.html
+      - title: Lucia Pérez de Pareja
+        path: /convention/candidate-lucia-perez.html
+      - title: Abigail Ross
+        path: /convention/candidate-abigail-ross.html
+      - title: Susana Treviño
+        path: /convention/candidate-susana-trevino.html
+      - title: Eduardo Ross
+        path: /convention/candidate-eduardo-ross.html
+
+
+##
+Manuals:
+- sectiontitle: Welcome
+  sectionpath: /manuals/welcome.html
+  section:
+  - sectiontitle: Introducing
+    sectionpath: /manuals/introducing.html
+    section:
+    - title: Using 
+      path: /manuals/using.html
+  - sectiontitle: Getting Started
+    sectionpath: /manuals/getting-started.html
+    section:
+    - title: Setup
+      path: /manuals/setups.html
+
