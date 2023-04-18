@@ -3,7 +3,7 @@ title: Delegate Candidate - Abigail Ross
 
 ---
 
-Mi nombre es Abigail Ross, ...
+Hola, soy Abigail Ross, ...
 
 ## Apostolado
 
