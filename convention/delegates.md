@@ -13,10 +13,5 @@ The Candidates for delegate for San Antonio are:
 
 Please read about them to become familiar with them before you send your recomendation.
 
-## Title Size 2 ##
-Local
-
-### Title Size ###
-Convention
 
 

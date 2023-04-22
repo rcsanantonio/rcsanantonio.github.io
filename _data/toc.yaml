@@ -13,25 +13,23 @@ home: {}
 
 ## Convention
 Convention:
-- sectiontitle: General Convention
-  sectionpath: /convention/general-convention.html
+- title: General Convention
+  path: /convention/general-convention.html
+- title: Territory Convention
+  path: /convention/territory-convention.html
+- sectiontitle: Delegate Candidates
+  sectionpath: /convention/delegates.html
   section:
-  - sectiontitle: Territory Convention
-    sectionpath: /convention/territory-convention.html
-    section:
-    - sectiontitle: Delegate Candidates
-      sectionpath: /convention/delegates.html
-      section:
-      - title: Adriana Pérez Oliveros
-        path: /convention/candidate-adriana-perez.html
-      - title: Lucia Pérez de Pareja
-        path: /convention/candidate-lucia-perez.html
-      - title: Abigail Ross
-        path: /convention/candidate-abigail-ross.html
-      - title: Susana Treviño
-        path: /convention/candidate-susana-trevino.html
-      - title: Eduardo Ross
-        path: /convention/candidate-eduardo-ross.html
+  - title: Adriana Pérez Oliveros
+    path: /convention/candidate-adriana-perez.html
+  - title: Lucia Pérez de Pareja
+    path: /convention/candidate-lucia-perez.html
+  - title: Abigail Ross
+    path: /convention/candidate-abigail-ross.html
+  - title: Susana Treviño
+    path: /convention/candidate-susana-trevino.html
+  - title: Eduardo Ross
+    path: /convention/candidate-eduardo-ross.html
 
 
 ##

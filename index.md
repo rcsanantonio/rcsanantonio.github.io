@@ -20,7 +20,7 @@ skip_read_time: true
           id="st-search-input"
           class="form-control"
           name="q"
-          placeholder="Search for guides, terms, commands and more..."
+          placeholder="Search for guides, appostolates and more..."
           type="search"
           autocomplete="off"
           spellcheck="false"
@@ -36,51 +36,27 @@ skip_read_time: true
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
         <a class="card guides" href="/dox/ecrGettingStartedMain.html">
-          <h5 class="title">Get started</h5>
+          <h5 class="title">Convention 2023</h5>
           <p>
-            Learn the basic.
+            Learn about the 2023 Territory Convention.
           </p>
         </a>
       </div>
       <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
-        <a class="card download-ecr" href="/dox/ecrInstallationandsetup.htmll">
-          <h5 class="title">Download and install</h5>
+        <a class="card manuals" href="https://www.regnumchristi.mx/wp-content/uploads/2021/04/manual_de_oraciones_rc.pdf">
+          <h5 class="title">Manual</h5>
           <p>
-            Download and install on your machine.
-          </p>
-        </a>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
-        <a class="card manuals" href="/dox/Welcome.html">
-          <h5 class="title">Manuals</h5>
-          <p>
-            Learn how to setup.
+            Download the Regnum Christi prayer manual.
           </p>
         </a>
       </div> 
       <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
-        <a class="card concepts" href="/dox/ecrConLanguageConceptsMain.html">
-          <h5 class="title">Concepts</h5>
+        <a class="card concepts" href="https://rcspirituality.org/">
+          <h5 class="title">Sprituality</h5>
           <p>
-            Learn the concepts.
+            Regnum Christi Spirituality.
           </p>
         </a>
       </div>     
-      <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
-        <a class="card reference" href="/dox/ecrLrfLangRefMain.html">
-          <h5 class="title">Reference</h5>
-          <p>
-            Browse through the reference.
-          </p>
-        </a>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
-        <a class="card monarch-base-docs" href="//asnaqsys.github.io">
-          <h5 class="title">Monarch Base</h5>
-          <p>
-            Browse through the Runtime Class library documentation.
-          </p>
-        </a>
-      </div>
     </div>
   </section>
