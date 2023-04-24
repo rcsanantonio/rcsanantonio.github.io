@@ -35,7 +35,7 @@ skip_read_time: true
   <section class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-6 col-lg-4 card-holder">
-        <a class="card guides" href="/dox/ecrGettingStartedMain.html">
+        <a class="card guides" href="/convention/territory-convention.html">
           <h5 class="title">Convention 2023</h5>
           <p>
             Learn about the 2023 Territory Convention.

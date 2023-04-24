@@ -3,7 +3,7 @@ title: Delegate Candidate - Adriana Pérez Oliveros
 
 ---
 
- ## [In English](https://www-rctx-org.translate.goog/convention/candidate-adriana-perez.html?_x_tr_sch=http&_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) 
+## [In English](https://www-rctx-org.translate.goog/convention/candidate-adriana-perez.html?_x_tr_sch=http&_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) 
 
 | ![Adriana Pérez Oliveros](images/adriana-perez.jpeg){:width="200px"} | Read this page [in english](https://www-rctx-org.translate.goog/convention/candidate-adriana-perez.html?_x_tr_sch=http&_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp) |
 
