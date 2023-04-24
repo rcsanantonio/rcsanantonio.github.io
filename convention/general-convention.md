@@ -3,8 +3,10 @@ title: General Convention
 
 ---
 
-**General Convention** Is the General Convention.
 
-You can walk the [Road to the 2024 Regnum Christi General Convention](//www.regnumchristi.org/en/timeline-the-road-to-the-2024-rc-general-convention/)
+### Road to the 2024 Regnum Christi General Convention
+Follow the [Road to the 2024 Regnum Christi General Convention](//www.regnumchristi.org/en/timeline-the-road-to-the-2024-rc-general-convention/)
 
-In preparation for the General Convention in Rome, the North American Territory will have its own [convention](territory-convention.html) in Chicago.
+### El Camino Hacia la Convención General Regnum Christi 2024
+Sigue el [Camino Hacia la Convención General Regnum Christi 2024](https://www-regnumchristi-org.translate.goog/en/timeline-the-road-to-the-2024-rc-general-convention/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en&_x_tr_pto=wapp)
+

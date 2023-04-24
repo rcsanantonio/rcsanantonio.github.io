@@ -13,21 +13,17 @@ home: {}
 
 ## Convention
 Convention:
-- title: General Convention
+- title: 2024 RC General Convention
   path: /convention/general-convention.html
-- title: Territory Convention
+- title: 2023 Territory Convention
   path: /convention/territory-convention.html
 - sectiontitle: Delegate Candidates
-  sectionpath: /convention/delegates.html
+  sectionpath: /convention/delegate-candidates.html
   section:
   - title: Adriana Pérez Oliveros
     path: /convention/candidate-adriana-perez.html
-  - title: Lucia Pérez de Pareja
-    path: /convention/candidate-lucia-perez.html
   - title: Abigail Ross
     path: /convention/candidate-abigail-ross.html
-  - title: Susana Treviño
-    path: /convention/candidate-susana-trevino.html
   - title: Eduardo Ross
     path: /convention/candidate-eduardo-ross.html
 
