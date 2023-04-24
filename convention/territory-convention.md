@@ -23,8 +23,8 @@ Each of the vocations will vote for the delegates they want to send to the conve
 
 ### WHAT WILL THEY DO AT THE CONVENTION? 
 Delegates will tackle two main themes during the convention, and then vote on which delegates from among themselves will represent our territory at the 2024 General Convention in Rome. The two broad themes of the convention include:
- - Examining the situation of the world and how Regnum Christi can better serve its needs, proposing priorities for going forward.
- - Looking at the implementation of the Federation itself to see how it is working and make any proposals necessary for helping it work better.
+ 1. Examining the situation of the world and how Regnum Christi can better serve its needs, proposing priorities for going forward.
+ 2. Looking at the implementation of the Federation itself to see how it is working and make any proposals necessary for helping it work better.
  
 
 ### HOW WILL DELEGATES PREPARE FOR THE CONVENTION? 
@@ -34,10 +34,10 @@ As the topics covered at the convention are deep and far-reaching, delegates (an
 ### HOW CAN NON-DELEGATE OFFER THEIR INSIGHTS AND PERSPECTIVE INTO THE PROCESS? 
 There are four ways to have your voice heard through contributions that will then be made available to the delegates:
 
- 1 - Locality leaders have already made a major effort to discern the local reality and prepared a Locality One-Sheet.
- 2 - Teams can review one or more of the nine discussion guides available online at this [LINK](https://www.regnumchristi.org/en/timeline-the-road-to-the-2024-rc-general-convention/) - each on a different topic related to our mission - and submit their reflections. These reflections will be collated and made available to delegates.
- 3 - Individuals can submit a personal reflection at this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfNL_JdB0kGYhsYhe7ZxoI9n4Flsp8EGP3vA8R_ghyKE-IfbQ/viewform).
- 4 - Anyone can speak with their locality's delegate(s) to offer their insights and perspectives.
+ 1. Locality leaders have already made a major effort to discern the local reality and prepared a Locality One-Sheet.
+ 2. Teams can review one or more of the nine discussion guides available online at this [LINK](https://www.regnumchristi.org/en/timeline-the-road-to-the-2024-rc-general-convention/) - each on a different topic related to our mission - and submit their reflections. These reflections will be collated and made available to delegates.
+ 3. Individuals can submit a personal reflection at this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfNL_JdB0kGYhsYhe7ZxoI9n4Flsp8EGP3vA8R_ghyKE-IfbQ/viewform).
+ 4. Anyone can speak with their locality's delegate(s) to offer their insights and perspectives.
  
 
 ### WHO GETS TO BE A DELEGATE? 
