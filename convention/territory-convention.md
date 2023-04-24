@@ -18,7 +18,7 @@ Delegates will be elected from each of the four vocations of Regnum Christi: Leg
  
 
 ### HOW WILL DELEGATES BE CHOSEN?
-Each of the vocations will vote for the delegates they want to send to the convention. San Antonio has [three candidates]() and will send one delegate. 
+Each of the vocations will vote for the delegates they want to send to the convention. San Antonio has [three candidates](delegate-candidates.html) and will send one delegate. 
 
 
 ### WHAT WILL THEY DO AT THE CONVENTION? 
@@ -35,8 +35,8 @@ As the topics covered at the convention are deep and far-reaching, delegates (an
 There are four ways to have your voice heard through contributions that will then be made available to the delegates:
 
  1 - Locality leaders have already made a major effort to discern the local reality and prepared a Locality One-Sheet.
- 2 - Teams can review one or more of the nine discussion guides available online at this LINK - each on a different topic related to our mission - and submit their reflections. These reflections will be collated and made available to delegates.
- 3 - Individuals can submit a personal reflection at this LINK.
+ 2 - Teams can review one or more of the nine discussion guides available online at this [LINK](https://www.regnumchristi.org/en/timeline-the-road-to-the-2024-rc-general-convention/) - each on a different topic related to our mission - and submit their reflections. These reflections will be collated and made available to delegates.
+ 3 - Individuals can submit a personal reflection at this [LINK](https://docs.google.com/forms/d/e/1FAIpQLSfNL_JdB0kGYhsYhe7ZxoI9n4Flsp8EGP3vA8R_ghyKE-IfbQ/viewform).
  4 - Anyone can speak with their locality's delegate(s) to offer their insights and perspectives.
  
 
