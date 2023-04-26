@@ -10,5 +10,5 @@ You can donate to RC San Antonio by visiting this secure page:
 
 Use your Credit/Debit card or provide your checking account information. To facilitate your donations, you can set up a recurrent transaction.
 
-We appreciate your help.
+We appreciate your support.
 
