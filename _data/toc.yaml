@@ -6,9 +6,44 @@ horizontalnav:
 - title: Convention
   path: /convention/general-convention.html
   node: Convention
-
+- title: Apostolates
+  path: /apostolates/welcome.html
+  node: Apostolates
+- title: Sections
+  path: /sections/welcome.html
+  node: Sections
+- title: Donations
+  path: /donations/welcome.html
+  node: Donations
 
 home: {}
+
+
+## Apostolates
+Apostolates:
+- sectiontitle: Apostolates
+  sectionpath: /apostolates/welcome.html
+  section:
+  - title: Adoration for Vocations
+    path: /apostolates/adoration-for-vocations.html
+  - title: Challenge for Girls
+    path: /apostolates/challenge.html
+  - title: Conquest for Boys
+    path: /apostolates/conquest.html
+  - title: Missions
+    path: /apostolates/missions.html
+  - title: RC Family Center
+    path: /apostolates/rc-family-center.html
+
+## Sections
+Sections:
+- title: Sections
+  path: /sections/welcome.html
+
+## Donations
+Donations:
+- title: Donations
+  path: /donations/welcome.html
 
 
 ## Convention
