@@ -21,5 +21,5 @@ También ayudo a promover Cruz Vocacional, Adoración por Vocaciones.
 ## Representación
 Como delegada de Regnum Christi San Antonio quisiera ser portavoz de las necesidades de esta localidad y de su trayectoria a través de los años de vivir en ella, tambien podria comunicar la vida apostolica de esta comunidad.
 
-
+Mi misión es entregar mi vida por la causa de Cristo mi Señor y mi Rey.
 
